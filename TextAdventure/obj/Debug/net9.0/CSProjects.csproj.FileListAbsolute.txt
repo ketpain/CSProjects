@@ -26,3 +26,4 @@ C:\Users\Chase\Documents\CSProjects\TextAdventure\obj\Debug\net9.0\refint\CSProj
 C:\Users\Chase\Documents\CSProjects\TextAdventure\obj\Debug\net9.0\CSProjects.pdb
 C:\Users\Chase\Documents\CSProjects\TextAdventure\obj\Debug\net9.0\CSProjects.genruntimeconfig.cache
 C:\Users\Chase\Documents\CSProjects\TextAdventure\obj\Debug\net9.0\ref\CSProjects.dll
+C:\Users\Chase\Documents\CSProjects\TextAdventure\obj\Debug\net9.0\CSProjects.sourcelink.json
